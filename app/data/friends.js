@@ -1,4 +1,4 @@
-//Starting with dummy data
+
 
 var friendList = [
     {
@@ -38,3 +38,5 @@ var friendList = [
         ]
     }
 ]
+
+module.exports = friendList;
